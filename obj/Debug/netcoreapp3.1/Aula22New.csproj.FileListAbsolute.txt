@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai Organização\Aula22New\bin\Debug\netcoreapp3.1\Aula22New.exe
+C:\Users\admin\Desktop\Senai Organização\Aula22New\bin\Debug\netcoreapp3.1\Aula22New.deps.json
+C:\Users\admin\Desktop\Senai Organização\Aula22New\bin\Debug\netcoreapp3.1\Aula22New.runtimeconfig.json
+C:\Users\admin\Desktop\Senai Organização\Aula22New\bin\Debug\netcoreapp3.1\Aula22New.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai Organização\Aula22New\bin\Debug\netcoreapp3.1\Aula22New.dll
+C:\Users\admin\Desktop\Senai Organização\Aula22New\bin\Debug\netcoreapp3.1\Aula22New.pdb
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.dll
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.pdb
+C:\Users\admin\Desktop\Senai Organização\Aula22New\obj\Debug\netcoreapp3.1\Aula22New.genruntimeconfig.cache
